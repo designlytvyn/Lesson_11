@@ -53,6 +53,7 @@ article p {
     height: 40px;
     background-color: coral;
     border: 1px solid gray;
+    border-radius: 20px;
 }
 .button:hover {
     cursor: pointer;
