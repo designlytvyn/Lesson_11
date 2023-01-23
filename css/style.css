@@ -37,3 +37,12 @@ nav ul {
 nav ul > li {
     padding-left: 20px;
 }
+.contact {
+    text-align: center;
+}
+textarea {
+    margin-top: 100px;
+    opacity: 0.1;
+    color: black;
+}
+
